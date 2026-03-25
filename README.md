@@ -273,6 +273,7 @@ No passo a passo, aprendemos:
 **Fontes:**
 
 https://fintechpython.pages.oit.duke.edu/jupyternotebooks/1-Core%20Python/answers/rq-26-answers.html
+
 https://python-programming.quantecon.org/python_oop.html
 
 **Referências:**
