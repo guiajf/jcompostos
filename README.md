@@ -265,9 +265,10 @@ gerar_grafico(periodos, sequencia_montantes)
 ### Conclusão
 
 No passo a passo, aprendemos:
-1. Como criar uma classe genérica para modelar uma **Progressão Geométrica**.
-2. Como usar herança para criar uma classe específica para **Juros Compostos**.
-3. Como adicionar funcionalidades extras, como gráficos dinâmicos, para melhorar a visualização dos resultados.
+1. a relação entre **Progressão Geométrica** e **Juros Compostos**.
+2. Como criar uma classe genérica para modelar uma **Progressão Geométrica**.
+3. Como usar herança para criar uma classe específica para **Juros Compostos**.
+4. Como adicionar funcionalidades extras, como gráficos dinâmicos, para melhorar a visualização dos resultados.
 
 **Fontes:**
 
