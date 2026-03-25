@@ -53,7 +53,7 @@ Portanto, o cálculo do montante em juros compostos pode ser visto como uma apli
 - O montante ($M$) é o termo correspondente à posição $n$ na sequência.
 
 
-### **Exemplo Numérico**
+### **Exemplo numérico**
 Suponha que você invista $C = 1000$ reais a uma taxa de juros compostos de $5\%$ ao mês ($i = 0,05$). Qual será o montante após 3 meses?
 
 Usando a fórmula de juros compostos:
@@ -205,7 +205,7 @@ print(f"Sequência de montantes: {sequencia_montantes}")
     Sequência de montantes: [1000.0, 1050.0, 1102.5, 1157.6250000000002, 1215.5062500000001]
 
 
-### Passo 4: Adicionando Gráficos Dinâmicos
+### Passo 4: Adicionando gráficos dinâmicos
 
 **Por que Gráficos?**
 
@@ -213,7 +213,7 @@ Gráficos ajudam a visualizar o crescimento exponencial dos montantes ao longo d
 - **Gráfico de barras**: Para até 12 meses.
 - **Gráfico de linha**: Para mais de 12 meses.
 
-**Implementação da Função**
+**Implementação da função**
 
 Adicionamos a função `gerar_grafico` ao código.
 
@@ -243,7 +243,7 @@ def gerar_grafico(periodos, montantes):
     plt.show()
 ```
 
-### Testando o Gráfico
+### Testando o gráfico
 Vamos gerar um gráfico para 15 meses.
 
 
