@@ -279,4 +279,4 @@ https://python-programming.quantecon.org/python_oop.html
 **Referências:**
 
 Wang, H. (2023). *Introduction to computer programming with Python*.
-/ Harris Wang. Published by Remix, an imprint of Athabasca University Press. DOI: https://doi.org/10.15215/remix/9781998944088.01
+Published by Remix, an imprint of Athabasca University Press. DOI: https://doi.org/10.15215/remix/9781998944088.01
