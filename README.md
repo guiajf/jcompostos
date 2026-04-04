@@ -56,6 +56,7 @@ Portanto, o cálculo do montante em juros compostos pode ser visto como uma apli
 Suponha que você invista $C = 1000$ reais a uma taxa de juros compostos de $5\%$ ao mês ($i = 0,05$). Qual será o montante após 3 meses?
 
 Usando a fórmula de juros compostos:
+
 $$
 M = 1000 \cdot (1 + 0,05)^3 = 1000 \cdot 1,157625 = 1157,63 \, \text{reais}.
 $$
@@ -64,6 +65,7 @@ Agora, vejamos isso como uma PG:
 - Primeiro termo ($a_1$): $1000$.
 - Razão ($q$): $1 + 0,05 = 1,05$.
 - Terceiro termo ($a_3$):
+  
 $$
 a_3 = 1000 \cdot (1,05)^3 = 1157,63 \, \text{reais}.
 $$
