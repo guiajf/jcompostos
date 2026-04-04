@@ -58,7 +58,9 @@ Suponha que você invista $C = 1000$ reais a uma taxa de juros compostos de $5\%
 Usando a fórmula de juros compostos:
 
 $$
-M = 1000 \cdot (1 + 0,05)^3 = 1000 \cdot 1,157625 = 1157,63 \, \text{reais}.
+M = 1000 \cdot (1 + 0,05)^3 = 
+1000 \cdot 1,157625 = 
+1157,63 \, \text{reais}.
 $$
 
 Agora, vejamos isso como uma PG:
