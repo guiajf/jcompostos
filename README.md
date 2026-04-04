@@ -25,6 +25,7 @@ Nos juros compostos, o valor acumulado ao longo do tempo cresce de forma exponen
 
 A fórmula para o montante ($M$) após $n$ períodos é:
 
+
 $$M = C \cdot (1 + i)^n$$
 
 Onde:
