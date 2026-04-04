@@ -71,7 +71,7 @@ Agora, vejamos isso como uma PG:
 - Terceiro termo ($a_3$):
   
 $$
-a_3 = 1000 \cdot (1,05)^3 = 1157,63 \, \text{reais}.
+a_3 = 1000 \cdot (1,05)^3 = 1157,63 \ \text{reais}.
 $$
 
 Os resultados são idênticos, mostrando que o cálculo de juros compostos segue o mesmo padrão de uma progressão geométrica.
