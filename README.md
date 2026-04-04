@@ -62,7 +62,7 @@ M = 1000 \cdot (1 + 0,05)^3 =$$
 
 $$1000 \cdot 1,157625 =$$
 
-$$1157,63 \, \text{reais}.
+$$1157,63 \ \text{reais}.
 $$
 
 Agora, vejamos isso como uma PG:
